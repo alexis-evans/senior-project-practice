@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print(" ")
+print("Name: Alexis Evans")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence")
+print("Skill Goal: Develop algorithmic solutions for real-world problems")
