@@ -8,3 +8,9 @@ I have added app.py, and created a way to view my senior project developer profi
 **Technology Interest**: Artificial Intelligence
 
 **Senior Project Skill Goal**: Developing elegant algorithmic solutions to real-world problems.
+
+---
+
+**Developer Workflow**
+
+Branch -> Code -> Commit -> Push -> Pull Request -> Review -> Merge
